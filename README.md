@@ -13,6 +13,7 @@
 <ul>
 <li>Foi realizado a criação do CRUD de Cliente e cosumindo os dados de uma API foi possível exibir no front end.</li>
 <li>O JSON -SERVER foi utilizado para simular um servidor e consumir dados</li>
+ <li>Um código assíncrono, então foi utilizado async e await. Depois foi utilizado try catch para lidar com erros.</li>
 
 </ul>
 
