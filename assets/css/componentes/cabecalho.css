@@ -6,12 +6,12 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 4.75rem;
+    height: 7rem;
     margin-bottom: 2rem;
 }
 
 .cabecalho__logo {
-    width: 3rem;
+    width: 20rem;
 }
 
 .cabecalho__lista-navegacao {
